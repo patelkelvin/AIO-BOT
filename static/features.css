@@ -1,0 +1,33 @@
+* {
+    box-sizing: border-box;
+  }
+  
+  /* Create three equal columns that floats next to each other */
+.column {
+    float: left;
+    width: 50%;
+    padding: 10px;
+    font-family: 'Nunito Sans';
+}
+  
+  /* Clear floats after the columns */
+.row:after {
+    content: "";
+    display: table;
+    clear: both;
+}
+
+body {
+    padding-top: 100px;;
+    padding-right: 50px;
+    padding-left: 50px;
+}
+
+.theme-bg-light {
+    background:#f5f6fe;
+}
+
+.title {
+    font-family: 'Nunito Sans';
+    padding: 15px;
+}

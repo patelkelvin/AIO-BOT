@@ -1,0 +1,38 @@
+body {
+    padding-top: 60px;
+}
+
+.theme-bg-light {
+    background:#f5f6fe;
+}
+
+/* .btn-danger {
+    background-color: #4550e6 !important;
+} */
+
+.jumbotron {
+    font-family: 'Nunito Sans';
+}
+
+.gray {
+    color: #343a40;
+    font-weight: bold;
+}
+
+.download-btn {
+    padding: 15px 15px;
+    font-size: 1rem !important;
+}
+
+/* .download-btn {
+  font-family: "Raleway", sans-serif;
+  font-weight: 500 !important;
+  font-size: 15px !important;
+  display: inline-block !important;
+  padding: 8px 24px 10px 46px !important; 
+  border-radius: 3px !important;
+  transition: 0.5s;
+  color: #fff;
+  background: #47536e;
+  position: relative;
+} */
